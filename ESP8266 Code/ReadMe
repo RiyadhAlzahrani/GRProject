@@ -1,0 +1,20 @@
+Arduino IDE Version: 1.8.16
+
+Board: ESP8266 Cummunity
+Framwork Board Version: 2.5.0
+
+Libraries:
+Adafruit_Unified_Sensor: Abafruit Unified Sensor Version: 1.1.5
+async-mqtt-client taken in 5-2022
+DHT_sensor_library: DHT sensor library Version: 1.4.3
+ESPAsyncTCP taken in 5-2022
+ESPAsyncWebServer taken in 5-2022
+
+
+Setting:
+Make sure to set this configration first:
+
+1- Downlode all the Libraries with the same Versions apove
+2- Make sure to Downlode the same Board with the same Version
+3- Make sure to sellct NodeMCU 1.0(ESP-12E Module) from tools -> Board -> ESP8266(2.5.0) -> NodeMCU 1.0(ESP-12E Module)
+4- after this compaile and uplode to the MCU.
