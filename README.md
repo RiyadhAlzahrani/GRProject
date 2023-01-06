@@ -10,28 +10,33 @@ This Project was made to improve the monitoring for shipment packages end to end
 
 ## __Tools and Programs:__
 * IoT System:
-    NodeMCU ESP8266
-    IDE Version: 1.8.16
-    Framework Board Version: 2.5.0
+    - NodeMCU ESP8266
+    - IDE Version: 1.8.16
+    - Framework Board Version: 2.5.0
 
 * Mqtt Brocker:
-    Raspberry Pi 3 Model B+
-    Mosquitto V2.0.11
+    - Raspberry Pi 3 Model B+
+    - Mosquitto V2.0.11
   
 * Monitoring System:
-    Mqtt Explorer
-    Mqtt.fx V1.7.1
+    - Mqtt Explorer
+    - Mqtt.fx V1.7.1
     
 ## __Links:__
-  Report Document: [Contact us] (https://wa.me/966502004105) 'Whatsapp Eng. Riyadh'
-  Video Explaining how the system works: [Youtube Video] (https://youtu.be/ULDhLUb-gaw)
-  
-  <a aria-label="Chat on WhatsApp" href="https://wa.me/966502004105"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />
-
+   - Report Document: [Contact us](https://wa.me/966502004105) `Whatsapp Eng.Riyadh`
+   - Video Explaining how the system works: [Youtube Video](https://youtu.be/ULDhLUb-gaw)
 
 ## __Made By:__
-  Eng. yazeed alamri [Twitter] (https://twitter.com/eng_Yazeed9)  [Linkedin] (https://www.linkedin.com/in/yazeed-al-amri-25381a18b/)
-  Eng. Riyadh alzahrani [Twitter] (https://twitter.com/Riyadh_z20)  [Linkedin] (https://www.linkedin.com/in/riyadh014/)
-  Eng. khaled alharbi [Twitter] (https://twitter.com/khaldadnan585)  [Linkedin] (https://www.linkedin.com/in/khaled-alharbi-500286225/)
+  * Eng. yazeed alamri [Twitter](https://twitter.com/eng_Yazeed9)  [Linkedin](https://www.linkedin.com/in/yazeed-al-amri-25381a18b/)
+  * Eng. Riyadh alzahrani [Twitter](https://twitter.com/Riyadh_z20)  [Linkedin](https://www.linkedin.com/in/riyadh014/)
+  * Eng. khaled alharbi [Twitter](https://twitter.com/khaldadnan585)  [Linkedin](https://www.linkedin.com/in/khaled-alharbi-500286225/)
 
-  Supervised by Dr. khalid alofi [Wibsite] (https://khalidaloufi.sa/) 
+  * Supervised by Dr. khalid alofi [Wibsite](https://khalidaloufi.sa/) 
+
+## __Future Plans:__
+  * Blockchain implementation to ensure the system integrity 
+  * Make the system track GPS
+  * Make an interface 
+  * Make Permissions authority for the users
+  * Minimize the power consumption
+  * Minimize the price tag for the unit
